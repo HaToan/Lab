@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  mqtt:
+    build: .
+    container_name: 'mqtt-broker'
+    ports:
+      - "1883:1883"
+      - "1884:1884"
+    volumes:
+      - ./data:/data
+    
