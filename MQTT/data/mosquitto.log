@@ -26,3 +26,10 @@
 1654349493: Saving in-memory database to /data/mosquitto.db.
 1654351294: Saving in-memory database to /data/mosquitto.db.
 1654353095: Saving in-memory database to /data/mosquitto.db.
+1654409441: mosquitto version 1.4.15 (build date Tue, 18 Jun 2019 11:42:22 -0300) starting
+1654409441: Config loaded from /etc/mosquitto/mosquitto.conf.
+1654409441: Opening ipv4 listen socket on port 1883.
+1654409441: Opening ipv6 listen socket on port 1883.
+1654409441: Opening websockets listen socket on port 1884.
+1654409441: Warning: Mosquitto should not be run as root/administrator.
+1654409453: mosquitto version 1.4.15 terminating

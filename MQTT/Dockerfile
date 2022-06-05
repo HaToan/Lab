@@ -22,8 +22,6 @@ RUN apt-get  clean
 
 # Copy rootfs
 COPY rootfs /
-COPY entrypoint.sh /
-RUN chmod +x /entrypoint.sh
 
 WORKDIR /
 
