@@ -27,4 +27,4 @@ RUN chmod +x /entrypoint.sh
 
 WORKDIR /
 
- CMD ["/entrypoint.sh"]
+ CMD ["bash"]
